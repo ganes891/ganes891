@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ganesan Kandasamy
 - 👀 I’m interested in devops CICD tools and best devops practices and approaches
-- 🌱 I’m currently learning kube with Flux
+- 🌱 I’m currently learning kube with Flux gitOPS
 - 💞️ I’m looking to collaborate on setting up flux CD to make kube manifest in centralise repo.
 - 📫 How to reach me ganesan.kandasami@gmail.com
 

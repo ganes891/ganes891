@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning kube with Flux gitOPS
 - 💞️ I’m looking to collaborate on setting up flux CD to make kube manifest in centralise repo.
 - 📫 How to reach me ganesan.kandasami@gmail.com
+-  experience in k8s,OCP
 
 <!---
 ganes891/ganes891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

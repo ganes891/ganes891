@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ganesan Kandasamy.
-- 👀 Solution architect in devops CICD tools and best devops practices and approaches
+- 👀 Solution architect in devops CICD tools and devops best practices and approaches
 - 🌱 I’m currently into Docker, Openshift, Kubernetes, Jenkins, Ansible, Nagios, ELK stack, Nexus Artifactory, ArgoCD, FluxCD, Helm Release, SonarQube, Jira, Maven, Prometheus, grafana, Haproxy.
 - 📫 How to reach me ganesan.kandasami@gmail.com
 -  experience in k8s,OCP.
